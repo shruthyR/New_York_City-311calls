@@ -23,19 +23,20 @@ Please note: For the below statements you need to state the Null and Alternate a
 
 Whether the average response time across complaint types is similar or not (overall)
 Are the type of complaint or service requested and location related?
+
 Dataset Description :
 
 Field	Description
      Unique Key	(Plain text) - Unique identifier for the complaints
      Created Date	(Date and Time) - The date and time on which the complaint is raised
      Closed Date	(Date and Time)  - The date and time on which the complaint is closed
-Agency	(Plain text) - Agency code
-Agency Name	(Plain text) - Name of the agency
-Complaint Type	(Plain text) - Type of the complaint
-Descriptor	(Plain text) - Complaint type label (Heating - Heat, Traffic Signal Condition - Controller)
-Location Type	(Plain text) - Type of the location (Residential, Restaurant, Bakery, etc)
-Incident Zip	(Plain text) - Zip code for the location
-Incident Address	(Plain text) - Address of the location
+     Agency	(Plain text) - Agency code
+     Agency Name	(Plain text) - Name of the agency
+     Complaint Type	(Plain text) - Type of the complaint
+     Descriptor	(Plain text) - Complaint type label (Heating - Heat, Traffic Signal Condition - Controller)
+     Location Type	(Plain text) - Type of the location (Residential, Restaurant, Bakery, etc)
+     Incident Zip	(Plain text) - Zip code for the location
+     Incident Address	(Plain text) - Address of the location
 Street Name	(Plain text) - Name of the street
 Cross Street 1	(Plain text) - Detail of cross street
 Cross Street 2	(Plain text) - Detail of another cross street
