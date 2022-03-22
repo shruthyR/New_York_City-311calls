@@ -37,14 +37,14 @@ Field	Description
      Location Type	(Plain text) - Type of the location (Residential, Restaurant, Bakery, etc)
      Incident Zip	(Plain text) - Zip code for the location
      Incident Address	(Plain text) - Address of the location
-Street Name	(Plain text) - Name of the street
-Cross Street 1	(Plain text) - Detail of cross street
-Cross Street 2	(Plain text) - Detail of another cross street
-Intersection Street 1	(Plain text) - Detail of intersection street if any
-Intersection Street 2	(Plain text) - Detail of another intersection street if any
-Address Type	(Plain text) - Categorical (Address or Intersection)
-City	(Plain text) - City for the location
-Landmark	(Plain text) - Empty field
+     Street Name	(Plain text) - Name of the street
+     Cross Street 1	(Plain text) - Detail of cross street
+     Cross Street 2	(Plain text) - Detail of another cross street
+     Intersection Street 1	(Plain text) - Detail of intersection street if any
+     Intersection Street 2	(Plain text) - Detail of another intersection street if any
+     Address Type	(Plain text) - Categorical (Address or Intersection)
+     City	(Plain text) - City for the location
+     Landmark	(Plain text) - Empty field
 Facility Type	(Plain text) - N/A
 Status	(Plain text) - Categorical (Closed or Pending)
 Due Date	(Date and Time) - Date and time for the pending complaints
